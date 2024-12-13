@@ -1,3 +1,6 @@
+Netify link: https://friendly-pothos-adb1e6.netlify.app/
+
+
 # Puppy Bowl with RTK Query
 
 In this workshop, we'll be revisiting the [Puppy Bowl API](https://fsa-puppy-bowl.herokuapp.com/api/)! In the previous unit, you were able to interact with this API and dynamically render puppies using just vanilla JS. We will be recreating that project using the new tools at our disposal: namely, React and RTK. A user will be able to view the roster of players, add a player to the roster, see more details about a specific player, and remove a player from the roster.
